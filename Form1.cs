@@ -16,5 +16,10 @@ namespace paintApp
         {
             InitializeComponent();
         }
+
+        private void pic_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
